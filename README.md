@@ -1,7 +1,7 @@
 # Halu 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxaWVtaGc5NTczbGE2YXA5c2ZncmQ2Ym1oZWRubnYxMmd5N3ViMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKhhNgnV6xXWg/giphy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/gumball.gif">
 </div>
 
 </br>
