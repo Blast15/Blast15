@@ -1,7 +1,7 @@
 # Halu 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/208593.gif">
+<iframe src="https://giphy.com/embed/sKhhNgnV6xXWg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-happy-smile-sKhhNgnV6xXWg">via GIPHY</a></p>
 </div>
 
 </br>
