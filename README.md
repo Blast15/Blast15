@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years old Game Design & Game Programming from Vietnam.
+### - I'm 21 years old Game Design & Game Programming from Vietnam.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
 
